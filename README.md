@@ -4,7 +4,7 @@ Security updateded for Task4
 Task 4: Security Enhancements for PHP Blog Application
 This project is the fourth task in the ApexPlanet Software Pvt. Ltd. Web Development Internship. It builds upon the existing PHP & MySQL blog application from Task 3 by implementing critical security enhancements as per the requirements.
 
-Developer: Ritesh Kumar Jena
+Developer: Kanhu Charana Badatya 
 
 1. Objective
 The primary goal of this task was to secure the web application against common vulnerabilities by implementing the following key features:
